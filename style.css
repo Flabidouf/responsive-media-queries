@@ -12,6 +12,7 @@
     body {
         background-color: green;
         display: flex;
+        flex-wrap: wrap;
 
     }
     #small {
@@ -22,7 +23,7 @@
    }
    #large {
         width:100%;
-        display: flex;
+     
    }
 }
 
